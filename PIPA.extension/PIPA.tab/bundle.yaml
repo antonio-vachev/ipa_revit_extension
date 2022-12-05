@@ -1,0 +1,9 @@
+layout:
+    - BIM Info
+    - Architecture
+    - Structural
+    - Water Supply & Sewage
+    - Electrical
+    - HVAC
+    - Common[after:HVAC]
+    - Work in Progress[after:Common]
