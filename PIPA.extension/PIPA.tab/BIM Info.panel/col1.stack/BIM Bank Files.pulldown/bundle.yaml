@@ -1,0 +1,22 @@
+title:
+  en_us: "BIM\nBank Files"
+layout:
+  - Doors
+  - Windows
+  - Accessible
+  - Details
+  - EL
+  - FE
+  - Furniture
+  - HC
+  - Heritage
+  - IN
+  - Site
+  - Railings
+  - Stairs
+  - Structural
+  - WS
+  
+tooltip: "Бърз достъп до банк файловете на IPA."
+
+author: "Tony BIM"
