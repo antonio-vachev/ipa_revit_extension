@@ -1,0 +1,17 @@
+title:
+  en_us: "Doors"
+
+tooltip: "Бърз достъп до банк файловете на IPA."
+
+author: "Tony BIM"
+
+layout:
+  - Doors Direction
+  - Doors DirectionNew
+  - -----
+  - Doors Renumber
+  - -----
+  - Doors Specification
+  - Doors SpecificationNew
+  - -----
+  - Doors Tag All

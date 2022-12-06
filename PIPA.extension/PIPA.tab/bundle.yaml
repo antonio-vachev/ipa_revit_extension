@@ -2,7 +2,7 @@ layout:
     - BIM Info
     - Architecture
     - Structural
-    - Water Supply & Sewage
+    - WSS
     - Electrical
     - HVAC
     - Common[after:HVAC]

@@ -4,3 +4,8 @@ title:
 tooltip: "Бърз достъп до банк файловете на IPA."
 
 author: "Tony BIM"
+
+layout:
+  - Area Name - Remove Suffix
+  - Area Name - Set Suffix
+  - Area Name - Duplicate

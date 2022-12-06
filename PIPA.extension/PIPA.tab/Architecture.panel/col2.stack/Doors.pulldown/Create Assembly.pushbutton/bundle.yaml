@@ -1,9 +1,0 @@
-tooltip: 
-  fr_fr: Lance des validations preflight inclus ou personnalisées sur vos fichiers
-  en_us: Run builtin or custom preflight checks on your models
-title: >-
-  Automations
-authors:
-  - 'Tony BIM'
-help_url: https://www.youtube.com/watch?v=O91DT1pR1ew
-min_revit_version: 2019

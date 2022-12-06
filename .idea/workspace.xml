@@ -6,28 +6,54 @@
   <component name="ChangeListManager">
     <list default="true" id="203e168c-795b-476c-bfd1-effb9e6ab105" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/CW Disallow Join.pushbutton/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/CW Disallow Join.pushbutton/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Create Assembly.pushbutton/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Create Assembly.pushbutton/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Wall Disallow Join.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Duplicate.pushbutton/AreaNameDuplicate_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Duplicate.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Duplicate.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Remove Suffix.pushbutton/AreaNameRemoveSuffix_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Remove Suffix.pushbutton/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Remove Suffix.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Remove Suffix.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Set Suffix.pushbutton/AreaNameSetSuffix_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Set Suffix.pushbutton/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Set Suffix.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Area Name - Set Suffix.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean All.pushbutton/RoomsCleanPrefix_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean All.pushbutton/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean All.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean All.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean.pushbutton/RoomsCleanPrefix_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean.pushbutton/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Clean.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Name.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Number.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Rentable.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Transfer.pushbutton/TransferRooms_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Transfer.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Transfer.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Direction.pushbutton/DoorsDirection_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Direction.pushbutton/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Direction.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Direction.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors DirectionNew.pushbutton/DoorsDirection_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors DirectionNew.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors DirectionNew.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Renumber.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Specification.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors SpecificationNew.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Doors Tag All.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Doors Tag AllNEW.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/bundle.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/CW Disallow Join.pushbutton/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/CW Disallow Join.pushbutton/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Create Assembly.pushbutton/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Create Assembly.pushbutton/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Wall Disallow Join.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows IsMirrored.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows Renumber.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows Specification.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows SpecificationNew.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows TagAll.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows TagAllNEW.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/bundle.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/bundle.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col3.stack/Floors.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" afterDir="false" />
@@ -51,17 +77,130 @@
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col3.stack/Walls.pulldown/Wall Disallow Join.pushbutton/icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col3.stack/Walls.pulldown/icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col3.stack/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/BIM Info.panel/BulkUpgrade.pushbutton/BulkUpgrade_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/BIM Info.panel/BulkUpgrade.pushbutton/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/BIM Info.panel/BulkUpgrade.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/BIM Info.panel/BulkUpgrade.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows Renumber.pushbutton/RenumberWindows_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows Renumber.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/Windows TagAll.pushbutton/WindowsTagAll_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/Windows TagAllNEW.pushbutton/WindowsTagAllNEW_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/Windows TagAllNEW.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/01_BIM Protocol.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/01_BIM Protocol.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/01_BIM Protocol.pushbutton/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/02_Titleblocks.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/02_Titleblocks.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/02_Titleblocks.pushbutton/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/03_Annotations.pushbutton/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/03_Annotations.pushbutton/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/03_Annotations.pushbutton/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/bundle.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/WIP.pulldown/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/CW Disallow Join.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/CW Disallow Join.pushbutton/bundle.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/CW Disallow Join.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/CW Disallow Join.pushbutton/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/Create Assembly.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Create Assembly.pushbutton/bundle.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/Create Assembly.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Create Assembly.pushbutton/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/Wall Disallow Join.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Wall Disallow Join.pushbutton/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/Walls.pulldown/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/CW Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/CW Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Create Assembly.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Create Assembly.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/Wall Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/CW Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/CW Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Create Assembly.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Create Assembly.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Wall Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/CW Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/CW Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Create Assembly.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Create Assembly.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Wall Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/CW Disallow Join.pushbutton/CW Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/CW Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/CW Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Create Assembly.pushbutton/CreateAssembly_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Create Assembly.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Create Assembly.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Wall Disallow Join.pushbutton/Wall Disallow Join_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Wall Disallow Join.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Wall Disallow Join.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/BIM Info.panel/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/BIM Info.panel/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Name.pushbutton/RoomNumberPrefixGross_script.bak.bak" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Name.pushbutton/RoomNumberPrefixGross_script.bak.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Name.pushbutton/RoomNumberPrefixGross_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Name.pushbutton/RoomNumberPrefixGross_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Name.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Name.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Name.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Number.pushbutton/RoomNumberPrefixGross_script.bak.bak" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Number.pushbutton/RoomNumberPrefixGross_script.bak.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Number.pushbutton/RoomNumberPrefixGross_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Number.pushbutton/RoomNumberPrefixGross_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Number.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Gross - Number.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Gross - Number.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Rentable.pushbutton/RoomNumberPrefixRentable_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Rentable.pushbutton/RoomNumberPrefixRentable_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Rentable.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Rooms.pulldown/Rooms Number Prefix Rentable.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/Rooms Number Prefix Rentable.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/HVAC.panel/Room Number Prefix.pulldown/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/Doors Specification.pushbutton/Legend&amp;Schedule_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Specification.pushbutton/Legend&amp;Schedule_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/Doors Specification.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Specification.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/Doors Specification.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/Doors SpecificationNew.pushbutton/Legend&amp;Schedule_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors SpecificationNew.pushbutton/Legend&amp;Schedule_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/Doors SpecificationNew.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors SpecificationNew.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/Doors SpecificationNew.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Door Specification.pulldown/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Direction.pulldown/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Direction.pulldown/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Renumber.pushbutton/RenumberDoors_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Renumber.pushbutton/RenumberDoors_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Renumber.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Renumber.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Renumber.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/Doors Tag All.pushbutton/DoorsTagAll_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Doors Tag All.pushbutton/DoorsTagAll_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/Doors Tag All.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Doors Tag All.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/Doors Tag All.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/Doors Tag AllNEW.pushbutton/DoorsTagAll_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Doors Tag AllNEW.pushbutton/DoorsTagAll_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/Doors Tag AllNEW.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/Doors Tag AllNEW.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/Doors Tag AllNEW.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Doors.pulldown/Doors Tag All.pulldown/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Structural.panel/Doors Tag All.pulldown/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows IsMirrored.pushbutton/IsMirrored_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows IsMirrored.pushbutton/IsMirrored_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows IsMirrored.pushbutton/IsMirrored_script_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows IsMirrored.pushbutton/IsMirrored_script_new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows IsMirrored.pushbutton/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows IsMirrored.pushbutton/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows IsMirrored.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows IsMirrored.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows IsMirrored.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Renumber.pushbutton/RenumberWindows_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows Renumber.pushbutton/RenumberWindows_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Renumber.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows Renumber.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Renumber.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows Renumber.pushbutton/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/Windows Specification.pushbutton/Legend&amp;Schedule_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows Specification.pushbutton/Legend&amp;Schedule_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/Windows Specification.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows Specification.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/Windows Specification.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/Windows SpecificationNew.pushbutton/Legend&amp;Schedule_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows SpecificationNew.pushbutton/Legend&amp;Schedule_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/Windows SpecificationNew.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows SpecificationNew.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/Windows SpecificationNew.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows Specification.pulldown/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/Windows TagAll.pushbutton/WindowsTagAll_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows TagAll.pushbutton/WindowsTagAll_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/Windows TagAll.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows TagAll.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/Windows TagAll.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/Windows TagAll.pushbutton/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/Windows TagAllNEW.pushbutton/WindowsTagAllNEW_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows TagAllNEW.pushbutton/WindowsTagAllNEW_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/Windows TagAllNEW.pushbutton/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col2.stack/Windows.pulldown/Windows TagAllNEW.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/Windows TagAllNEW.pushbutton/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/Windows TagAllNEW.pushbutton/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/Windows TagAll.pushbutton/bundle.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Water Supply &amp; Sewage.panel/Windows.TagAll.pulldown/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/WSS.panel/Windows.TagAll.pulldown/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/Remove all paint.pushbutton/Remove_Paint_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/Remove all paint.pushbutton/bundle.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/Work in Progress.panel/Remove all paint.pushbutton/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/bundle.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/PIPA.extension/PIPA.tab/bundle.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +209,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/Areas.pulldown/bundle.yaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PIPA.extension/PIPA.tab/Architecture.panel/col1.stack/bundle.yaml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,16 +229,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "B:/06. BIM AUTOMATION/05. PIPA/ipa_revit_extension/PIPA.extension/PIPA.tab/Architecture.panel/col3.stack"
+    "last_opened_file_path": "B:/06. BIM AUTOMATION/05. PIPA/ipa_revit_extension/PIPA.extension/PIPA.tab/BIM Info.panel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\col3.stack" />
-      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel" />
+      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\BIM Info.panel" />
+      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Work in Progress.panel" />
+      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\col2.stack\Windows.pulldown" />
+      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\col2.stack\Doors.pulldown" />
       <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\col2.stack" />
-      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\col1.stack" />
-      <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\Rooms &amp; Areas.pulldown" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="B:\06. BIM AUTOMATION\05. PIPA\ipa_revit_extension\PIPA.extension\PIPA.tab\Architecture.panel\col1.stack" />

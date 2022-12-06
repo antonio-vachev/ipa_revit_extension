@@ -1,0 +1,17 @@
+title:
+  en_us: "Windows"
+
+tooltip: "Бърз достъп до банк файловете на IPA."
+
+author: "Tony BIM"
+
+layout:
+  - Windows IsMirrored
+  - -----
+  - Windows Renumber
+  - -----
+  - Windows Specification
+  - Windows SpecificationNew
+  - -----
+  - Windows TagAll
+  - Windows TagAllNEW
