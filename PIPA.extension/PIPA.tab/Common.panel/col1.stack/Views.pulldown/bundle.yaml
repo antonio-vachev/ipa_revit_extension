@@ -1,0 +1,13 @@
+title:
+  en_us: "Views"
+
+tooltip: "Бърз достъп до банк файловете на IPA."
+
+author: "Tony BIM"
+
+layout:
+  - Place Views on Sheets
+  - -----
+  - Floor Plan From Area.Rentable
+  - -----
+  - Elevations By Room
