@@ -1,0 +1,5 @@
+tooltip: Инструмента дава възможност Family Name и Type Name да бъдат дублирани в заредените предварително параметри FamilyNameDuplicate и FamilyTypeDuplicate. Това дава възможност те да бъдат използвани за филтриране в таблици. Работи с пълна функционалност за категории - Plumbing Fixtures, Furniture, Doors, Windows. За системни категории, дублира само стойността на Type Name. Това са - Walls, Ceilings, Floors, Roofs. Също така, за линкнати файлове, записва името на файла, името на линка и координатната система в параметри LinkName, LinkFileName и LinkLocation.
+
+title: "Family & Type Info"
+
+author: Dani BIM
