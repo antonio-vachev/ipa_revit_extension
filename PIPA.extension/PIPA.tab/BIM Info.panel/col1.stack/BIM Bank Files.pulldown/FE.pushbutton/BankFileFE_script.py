@@ -12,7 +12,7 @@ from Autodesk.Revit.UI.Events import *
 
 # select folder of files to be updated
 directoryContents = r"IPA-DATA-BANK-FE-Central.rvt"
-filesFolder = r"B:\\01. IPA REVIT-CAD TEMPLATES\\20. BANK FILES\\"
+filesFolder = r"B:\\01. BIM DATA\\02. BANK FILES\\"
 
 tOptions = TransactWithCentralOptions()
 revitModelPath = ModelPathUtils.ConvertUserVisiblePathToModelPath(os.path.join(filesFolder, directoryContents))
