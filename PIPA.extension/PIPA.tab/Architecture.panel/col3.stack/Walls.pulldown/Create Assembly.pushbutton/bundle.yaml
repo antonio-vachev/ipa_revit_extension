@@ -1,9 +1,5 @@
-tooltip: 
-  fr_fr: Lance des validations preflight inclus ou personnalisées sur vos fichiers
-  en_us: Run builtin or custom preflight checks on your models
-title: >-
-  Automations
-authors:
-  - 'Tony BIM'
-help_url: https://www.youtube.com/watch?v=O91DT1pR1ew
-min_revit_version: 2019
+tooltip: Стартирайте инструмента и изберете желаните Curtain Wall елементи. Изберете "Finish" от лентата с опции. За всеки Curtain Wall елемент ще бъде създаден Assembly елемент със съответните изгледи към него.
+
+title: "Create\nAssembly"
+
+author: All 1 Studio Ltd.
