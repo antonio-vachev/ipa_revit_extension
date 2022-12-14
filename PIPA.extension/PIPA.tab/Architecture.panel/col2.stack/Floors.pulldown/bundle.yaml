@@ -1,0 +1,10 @@
+title:
+  en_us: "Floors"
+
+tooltip: "Бърз достъп до банк файловете на IPA."
+
+author: "Tony BIM"
+
+layout:
+  - Create Floor Finishes
+  - Change Floor Type
