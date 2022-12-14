@@ -1,20 +1,20 @@
 title:
   en_us: "BIM\nBank Files"
 layout:
+  - EL
   - Doors
   - Windows
   - Accessible
-  - Details
-  - EL
-  - FE
-  - Furniture
-  - HC
   - Heritage
-  - IN
-  - Site
-  - Railings
+  - Furniture
   - Stairs
+  - Railings
+  - Details
+  - Site
   - Structural
+  - FE
+  - HC
+  - IN
   - WS
   
 tooltip: "Бърз достъп до банк файловете на IPA."

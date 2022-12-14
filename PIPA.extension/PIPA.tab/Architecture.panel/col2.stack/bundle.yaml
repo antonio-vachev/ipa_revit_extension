@@ -1,3 +1,4 @@
 layout:
-    - Doors
-    - Windows
+    - Areas
+    - Rooms
+    - Floors
